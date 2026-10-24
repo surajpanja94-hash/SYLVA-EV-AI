@@ -1,0 +1,7 @@
+{
+  "name": "Sylva Living World Scene",
+  "description": "Interactive procedural moss-root world with pale flowers, ferns, drifting pollen, scan light, and a landing butterfly built with ThreeUI and Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
